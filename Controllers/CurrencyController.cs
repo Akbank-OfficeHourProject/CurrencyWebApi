@@ -1,5 +1,4 @@
 using CurrencyApplication.ApplicationConfig;
-using CurrencyApplication.Entity;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
 
